@@ -1,0 +1,12 @@
+2015-01-22 11:50:35Z [FLOW] src=175.45.176.1:12940 dst=149.171.126.16:80 proto=tcp service=http state=FIN dur=0.268 spkts=10 dpkts=8 sbytes=878 dbytes=1002 rate=67.1 ct_dst_ltm=1 ct_src_dport_ltm=1
+2015-01-22 11:50:35Z [FLOW] src=59.166.0.3:46973 dst=149.171.126.0:80 proto=tcp service=http state=FIN dur=9.108 spkts=8 dpkts=10 sbytes=1052 dbytes=824 rate=2.0 ct_dst_ltm=4 ct_src_dport_ltm=1
+2015-01-22 11:50:35Z [FLOW] src=59.166.0.7:12090 dst=149.171.126.3:53 proto=udp service=dns state=CON dur=0.001 spkts=2 dpkts=2 sbytes=146 dbytes=178 rate=3555.6 ct_dst_ltm=1 ct_src_dport_ltm=3
+2015-01-22 11:50:37Z [FLOW] src=59.166.0.1:8985 dst=149.171.126.1:111 proto=udp service=- state=CON dur=0.005 spkts=4 dpkts=4 sbytes=568 dbytes=304 rate=1594.3 ct_dst_ltm=2 ct_src_dport_ltm=1
+2015-01-22 11:50:43Z [FLOW] src=59.166.0.3:62293 dst=149.171.126.1:25740 proto=tcp service=ftp-data state=FIN dur=0.287 spkts=6 dpkts=8 sbytes=320 dbytes=1826 rate=48.8 ct_dst_ltm=3 ct_src_dport_ltm=2
+2015-01-22 11:50:43Z [FLOW] src=59.166.0.0:65052 dst=149.171.126.0:25 proto=tcp service=smtp state=FIN dur=9.105 spkts=52 dpkts=42 sbytes=37358 dbytes=3380 rate=10.3 ct_dst_ltm=11 ct_src_dport_ltm=1
+2015-01-22 11:50:44Z [FLOW] src=59.166.0.9:35801 dst=149.171.126.6:22 proto=tcp service=ssh state=FIN dur=14.851 spkts=108 dpkts=116 sbytes=9504 dbytes=12402 rate=15.1 ct_dst_ltm=2 ct_src_dport_ltm=1
+2015-01-22 11:50:49Z [FLOW] src=175.45.176.1:20549 dst=149.171.126.10:111 proto=udp service=- state=INT dur=0.000 spkts=2 dpkts=0 sbytes=168 dbytes=0 rate=2000.0 ct_dst_ltm=1 ct_src_dport_ltm=1
+2015-01-22 11:50:52Z [FLOW] src=175.45.176.1:61099 dst=149.171.126.17:111 proto=tcp service=- state=FIN dur=0.633 spkts=10 dpkts=8 sbytes=564 dbytes=354 rate=28.5 ct_dst_ltm=1 ct_src_dport_ltm=1
+2015-01-22 11:51:31Z [FLOW] src=175.45.176.1:38267 dst=149.171.126.10:80 proto=tcp service=http state=FIN dur=0.410 spkts=10 dpkts=8 sbytes=962 dbytes=354 rate=43.9 ct_dst_ltm=1 ct_src_dport_ltm=1
+2015-01-22 11:52:18Z [FLOW] src=175.45.176.1:30074 dst=149.171.126.18:80 proto=tcp service=http state=FIN dur=0.248 spkts=10 dpkts=8 sbytes=846 dbytes=1008 rate=72.6 ct_dst_ltm=1 ct_src_dport_ltm=1
+2015-01-22 11:52:21Z [FLOW] src=175.45.176.1:63277 dst=149.171.126.18:110 proto=tcp service=pop3 state=FIN dur=1.272 spkts=34 dpkts=116 sbytes=1546 dbytes=129538 rate=117.9 ct_dst_ltm=1 ct_src_dport_ltm=1

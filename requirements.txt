@@ -1,0 +1,5 @@
+# Basic labs (01-09)
+openai
+pandas
+numpy
+scikit-learn

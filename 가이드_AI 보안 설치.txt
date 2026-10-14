@@ -1,0 +1,22 @@
+
+(1) https://ollama.com/library  에서   llama3.2  모델을 사전에 다운로드하여 교육생 노트북에 설치를 해주시면 감사하겠습니다. 
+
+(2)  ⓪    Python 3.11 설치  
+
+python.org/downloads/windows → 3.11.9 Windows installer (64-bit)
+
+첫 화면에서 'Add python.exe to PATH' 체크 → Install Now → 새 명령 창에서 python --version
+
+'Python was not found'가 나오면: 설정 → 앱 → 고급 앱 설정 → 앱 실행 별칭에서 python 끄기
+
+
+
+① 패키지 설치 
+
+cd "(압축 푼 폴더)"   ← dir requirements.txt 로 파일 확인
+
+python -m venv .venv
+
+.venv\Scripts\python -m pip install -r requirements.txt
+
+.venv\Scripts\python -m pip install jupyterlab
